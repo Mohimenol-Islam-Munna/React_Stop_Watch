@@ -1,0 +1,12 @@
+.tle .edit{
+
+    opacity: 0;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.tle:hover .edit{
+
+    opacity: 1;
+
+}
